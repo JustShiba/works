@@ -4,8 +4,8 @@
 
 ### Contact me:
 * phone: +375291519128            
-* email: liyalisica9356@gmail.com
-* vkontakte: https://vk.com/illisitsa
+* Email: liyalisica9356@gmail.com
+* [Vkontakte](https://vk.com/illisitsa)
 
 
 ### My works:
