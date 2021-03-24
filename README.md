@@ -1,10 +1,6 @@
-# Illia Lisitsa
+# Illia Lisitsa ## Front-end developer
 
-##### Front-end developer
 
-###
-###
-###
 
 ### Contact me:
 * phone: +375291519128            
@@ -14,8 +10,8 @@
 
 ### My works:
 * [CV](https://lisichkasestrichka.github.io/Curriculum_vitae/)
-* https://lisichkasestrichka.github.io/Wildlife/
-* https://lisichkasestrichka.github.io/Virt_Piano/
+* [Wildlife](https://lisichkasestrichka.github.io/Wildlife/)
+* [Virtual piano](https://lisichkasestrichka.github.io/Virt_Piano/)
 
 
 ### Education
