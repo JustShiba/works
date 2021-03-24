@@ -8,9 +8,9 @@
 
 
 ### My works:
-* https://lisichkasestrichka.github.io/Curriculum_vitae/
-* https://lisichkasestrichka.github.io/Wildlife/
-* https://lisichkasestrichka.github.io/Virt_Piano/
+* [https://lisichkasestrichka.github.io/Curriculum_vitae/]
+* [https://lisichkasestrichka.github.io/Wildlife/]
+* [https://lisichkasestrichka.github.io/Virt_Piano/]
 
 
 ### Education
