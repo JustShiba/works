@@ -39,7 +39,7 @@ HTML5 & CSS3
 JAVASCRIPT
 : Education in a higher educational institution.
 0.5 years
-0 sites
+1 site
 
 WORDPRESS
 : Training in video tutorials, guides.
@@ -53,5 +53,7 @@ WORDPRESS
 1. HTML
 
 2. CSS
+
+3. JavaScript
 
 ### Technical Experience
