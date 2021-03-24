@@ -13,7 +13,7 @@
 
 
 ### My works:
-* https://lisichkasestrichka.github.io/Curriculum_vitae/
+* [CV](https://lisichkasestrichka.github.io/Curriculum_vitae/)
 * https://lisichkasestrichka.github.io/Wildlife/
 * https://lisichkasestrichka.github.io/Virt_Piano/
 
