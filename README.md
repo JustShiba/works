@@ -9,9 +9,9 @@
 
 
 ### My works:
-* [CV](https://lisichkasestrichka.github.io/Curriculum_vitae/)
-* [Wildlife](https://lisichkasestrichka.github.io/Wildlife/)
-* [Virtual piano](https://lisichkasestrichka.github.io/Virt_Piano/)
+* [Curriculum vitae](https://Llorenn.github.io/Curriculum_vitae/)
+* [Wildlife](https://Llorenn.github.io/Wildlife/)
+* [Virtual piano](https://Llorenn.github.io/Virt_Piano/)
 
 
 ### Education
