@@ -25,9 +25,9 @@
 
 
 ### Language skills
-     * Russian (native)
-     * English (A2)
-     * Belarussian (native)
+     * Russian (Native)
+     * English (B1)
+     * Belarussian (Native)
 
 ### Experience
 >First of all I started learning HTML, CSS and JS at BSU, where I'm currently studying. After passing the exam in this discipline, I decided to try myself in web development. I went to work as an intern, first to one person in an incomprehensible IT company, and then to another, with the hope that I would be taught at least something there. My expectations were not met. Then I began to gain experience on my own as a freelancer.
@@ -40,7 +40,11 @@ HTML5 & CSS3
 JAVASCRIPT
 : Education in a higher educational institution.
 0.5 years
-1 site
+5 sites
+
+REACT
+: Education received by special courses, reading theoretical materials and practicing.
+3 sites
 
 WORDPRESS
 : Training in video tutorials, guides.
@@ -56,5 +60,7 @@ WORDPRESS
 2. CSS
 
 3. JavaScript
+
+4. REACT
 
 ### Technical Experience
